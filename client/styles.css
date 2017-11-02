@@ -1,0 +1,17 @@
+body {
+  background-color: #eee;
+}
+
+.square {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
