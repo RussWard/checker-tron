@@ -9,11 +9,11 @@ body {
 }
 
 .light {
-  background-color: rgba(255, 0, 0, .75);
+  background-color: red;
 }
 
 .dark {
-  background-color: #555;
+  background-color: black;
 }
 
 .disk {
@@ -26,9 +26,9 @@ body {
 }
 
 .black {
-  background-color: black;
+  background-color: #555;
 }
 
 .red {
-  background-color: red;
+  background-color: rgba(255, 0, 0, .75);
 }
